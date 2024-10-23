@@ -1,0 +1,409 @@
+.logo-img{
+    height: 41px;
+}
+.img1{
+    width: 17%;
+    margin-left: 26%;
+    margin-top: 10px;
+}
+.img2{
+    margin-left: 15%;
+
+}
+.navbar-heading{
+    padding-top: 40px;;
+    font-size: 12px;
+    float: right;
+    font-weight: bold;
+}
+.form-control{
+    opacity: 0.5;
+    background-color: #E9EDEB;
+}
+.store-button{
+    border-top:  0.5px solid #E9EDEB;
+    border-bottom:  0.5px solid #E9EDEB;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: #E9EDEB;
+    color: black;
+    padding-right: 25px;
+    font-weight: 500;
+    opacity: 0.6;
+}
+.dropdown-toggle{
+    border-top:  0.5px solid #E9EDEB;
+    border-bottom:  0.5px solid #E9EDEB;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: #F4F6F5;
+    color: red;
+    font-size: 20px;
+    
+}
+.product{
+    font-size: 20px;
+    font-weight: bold;
+}
+.cream-img{
+    width: 100%;
+}
+.text{
+    font-size: 14px;
+    text-align: justify;
+}
+.for-position{
+    position: relative;
+}
+.red{
+    width: 100%;
+}
+.parent-forimg{
+    position: absolute;
+    top: 15px;
+    padding-left: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    width: 100%;
+}
+.for-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.yellow{
+    color: #E0AC00;
+    font-weight: bold;
+    text-align: left;
+    font-size: 17px;
+}
+.button-location{
+    border-radius: 25px;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    background-color: #D0441D;
+    margin-top: 90px;
+}
+.how{
+ font-size: 18px;
+ font-weight: 700;
+ background-color: #EBE9E8;
+ margin-top: 30px;
+ padding: 10px;
+}
+.question-mark{
+    float: right;
+    width: 10%;
+}
+
+.application-text{
+    font-size: 12px;
+    float: right;
+    padding-top: 35px;
+    padding-right: 40px;
+}
+.hand-img{
+    height: 12%;
+}
+
+.first-collapse{
+    text-decoration: none; 
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+.questions{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    margin: 10px 0px;
+    border-bottom: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.helping{
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 80px;
+    padding: 10px;
+}
+.fb{
+    font-size: 14px;
+    font-weight: 500;
+    float: right;
+    padding-right: 40px;
+    padding-top: 5px;
+
+}
+.for-bg-col{
+    background-color: #EBE9E8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+.for-bg-pad{
+    background-color: #EBE9E8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+.fb-img{
+    padding-top: 3px;
+    padding-left: 11px;
+}
+.email-img{
+    padding-top: 3px;
+    padding-left: 11px;
+}
+.email{
+    font-size: 14px;
+    font-weight: 500;
+    float: right;
+    padding-right: 65px;
+    padding-top: 5px;
+}
+.signup-form{
+    padding-top: 60px;
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.form{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #D0441D;
+    padding: 25px
+}
+
+.form-control{
+    width: 100%;
+    padding-top: 20px;
+    background-color: #EBE9E8;
+    border: transparent;
+    border-bottom: 1px solid gray;
+}
+.margin{
+    padding: 5px 20px;
+    
+}
+.inside-form{
+    background-color: #EBE9E8;
+}
+.submit-btn{
+    background-color: #D0441D;
+    color: white;
+    width: 100%;
+    border-radius: 3px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 15px 0px;
+    border: transparent;
+}
+.slide{
+    margin-top: 60px;
+    width: 100%;
+}
+.names{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 40px;
+    margin: 0px;
+}
+.date-1{
+    position: absolute;
+    top: 5%;
+    right: 3%;
+    font-size: 11px;
+    color: gray;
+}
+.date-2{
+    position: absolute;
+    top: 25%;
+    right: 3%;
+    font-size: 11px;
+    color: gray;
+}
+.date-3{
+    position: absolute;
+    top: 41%;
+    right: 3%;
+    font-size: 11px;
+    color: gray;
+}
+.date-4{
+    position: absolute;
+    top: 59%;
+    right: 3%;
+    font-size: 11px;
+    color: gray;
+}
+.border-bot{
+    font-size: 14px;
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-bottom: 1px solid #a3a7ab;
+}
+
+.feedback{
+    background-color: #EBE9E8;
+    width: 100%;
+    margin-top: 5px;
+    position: relative;
+}
+.feedback-text{
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+
+.form-margin{
+    margin-top: 15px;
+}
+.textarea{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: transparent; 
+}
+
+.border-col{
+    border: 1px solid #4e4e4e17;
+    margin: 20px 35px;
+    padding-bottom: 10px;
+    background-color: #4e4e4e17;
+}
+.update-btn{
+    background-color: #D0441D;
+    color: white;
+    padding: 45px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    border: transparent;
+    
+}
+.footer{
+    margin-top: 40px;
+}
+.small-logo{
+    width: 40%;
+}
+.copyright{
+   color: #666666;
+   opacity: 0.4;
+   font-size: 14px;
+}
+@media (min-width:0px) and (max-width:768px){
+    .img1{
+        margin-left: 21%;
+    }
+    .button-location{
+        margin-top: 20px;
+    }
+    .parent-forimg {
+        top: 20px;
+        padding-left: 25px;
+        font-size: 20px;
+        width: 58%;
+    }
+    .red {
+        width: 50%;
+    }
+    .question-mark {
+        width: 6%;
+    }
+    .signup-form {
+        padding-top: 20px;
+        padding-left: 160px;
+    }
+}
+ @media (min-width:0px) and (max-width:576px){
+    .navbar-heading{
+        display: none;
+    }
+    .img1{
+        width: 70%;
+    }
+    .logo-img {
+        padding-left: 50px;
+    }
+    .product{
+        position: absolute;
+        font-size: 24px;
+        top: 33%;
+        left: 29%;
+    }
+    .cream-img{
+        width: 100%;
+        padding-top: 15%;
+    }
+    .how{
+        display: none;
+    }
+    .hand-img{
+        display: none;
+    }
+    .application-text{
+        display: none;
+    }
+    .text{
+        font-size: 16px;
+    }
+    .button-location{
+        margin-left: 150px;
+    }
+    .red{
+        width: 85%;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+    .parent-forimg {
+        top: 25px;
+        padding-left: 25px;
+        font-size: 21px;
+        width: 100%;
+    }
+    .for-position {
+        margin-left: 50px;
+    }
+    .helping{
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 160px;
+    }
+    .email{
+        padding-right: 40px;
+    }
+    .fb{
+        padding-right: 20px;
+    }
+    .for-bg-pad {
+        padding-bottom: 16px;
+        margin-top: 0px;
+    }
+    .signup-form{
+        padding-top: 0px;
+        padding-left: 80px;
+    }
+    .small-logo {
+        width: 100%;
+    }
+    .copyright {
+        opacity: 1;
+        font-size: 10px;
+    }
+ }
+
